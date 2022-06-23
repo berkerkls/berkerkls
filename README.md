@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-# 💫 About Me:
+# About Me:
 🌱 I’m currently learning React.js, Angular, JavaScript etc.<br> 💬 Ask me about JavaScript and CSS.<br> 📫 How to reach me: berkerkelesoglu@gmail.com
 
 
