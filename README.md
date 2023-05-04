@@ -1,5 +1,5 @@
 ##  About Me:
-🔭 I’m a Frontend Developer.<br>💬 Ask me about React, Vue, Node.js TypeScript and JavaScript.<br>Contact: berkerkelesoglu@gmail.com<br>
+🔭 I’m a Frontend Developer.<br>💬 Ask me about React, Vue, Node.js, TypeScript and JavaScript.<br>Contact: berkerkelesoglu@gmail.com<br>
 
 
 ## Socials:
