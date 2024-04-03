@@ -1,12 +1,8 @@
-##  About Me:
-🔭 I’m a Frontend Developer.<br>💬 Ask me about React, Vue, Node.js, TypeScript and JavaScript.<br>Contact: berkerkelesoglu@gmail.com<br>
+**Hey 👋**
+<br>I’m a Software Developer and musician based in Istanbul.
+<br>Contact me: berkerkelesoglu@gmail.com<br>
 
+**[Checkout my personal website >](https://www.berkerkelesoglu.dev/)**
 
-
-
-
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=berkerkls&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
